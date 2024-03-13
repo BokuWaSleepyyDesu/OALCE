@@ -4,7 +4,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
   <link rel="icon" href="OAL.png" type="image/png">
-  <title>Our Anime</title>
+  <title>Our Anime LIST EPIC</title>
   <link rel="stylesheet" href="styles.css">
   <style>
     body {
