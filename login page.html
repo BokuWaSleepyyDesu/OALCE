@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>OALCE</title>
-        <link rel="stylesheet" type="text/css" href="loginstyles.css">
+        <link rel="stylesheet" type="text/css" href="styles.css">
    
         <style>
             body{
@@ -11,30 +11,16 @@
         </style>
     </head>
     <body>
-        <h1>LOGIN</h1>
-        <p>username: Beastslayer</p>
-        <p>password: Beastslayer is OPP!!!</p>
+      <h1>LOGIN</h1>
+      <div class="login details">
+        <label  for="username">Username :</label>
+        <input type="text" id="username"> <br> 
+        <label for="password">Password :</label>
+        <input type="password" id="password">
+      </div>
 
-        <div class="toggle-switch">
-            <input class="toggle-input" id="toggle" type="checkbox">
-            <label class="toggle-label" for="toggle"></label>
-          </div>
-
-        <div class="radio-inputs">
-            <label class="radio">
-              <input type="radio" name="radio" checked="">
-              <span class="name">HTML</span>
-            </label>
-            <label class="radio">
-              <input type="radio" name="radio">
-              <span class="name">React</span>
-            </label>
-                
-            <label class="radio">
-              <input type="radio" name="radio">
-              <span class="name">Vue</span>
-            </label>
-        </div>
-          
+      <div class="register">
+        <p>Click <a href="register.html">here</a href> to register</p>
+      </div>
     </body>
 </html>
