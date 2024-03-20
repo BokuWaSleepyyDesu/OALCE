@@ -6,6 +6,10 @@ body{
     background-color: pink;
 }
 
-div{
+.login_details{
+    text-align: center;
+}
+
+.register_details{
     text-align: center;
 }
